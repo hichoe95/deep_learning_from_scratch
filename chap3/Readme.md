@@ -1,5 +1,7 @@
 # 3장의 단어정리 및 코드모음 입니다.
 
+MNIST에 필요한 데이터셋 및 pretrain 된 weight는 https://github.com/WegraLee/deep-learning-from-scratch 에서 다운받으실 수 있습니다.
+
 ### Perceptron
 
 다수의 순호를 입력으로 받아 하나의 신호를 출력한다.
